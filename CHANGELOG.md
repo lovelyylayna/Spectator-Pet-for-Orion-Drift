@@ -1,5 +1,8 @@
 # Changelog for SpecPet
 
+## 0.0.11p2
+- Fixed default config from placing your camera slightly into the ground
+
 ## 0.0.11p1
 - Added a guide for the user in the GUI to cover the basics.
 
