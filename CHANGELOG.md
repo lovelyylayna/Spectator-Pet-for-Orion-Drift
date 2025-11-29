@@ -1,5 +1,10 @@
 # Changelog for SpecPet
 
+## 0.0.15
+- Added pet speed multiplier
+- Changed UI
+- Added resting
+
 ## 0.0.11p2
 - Fixed default config from placing your camera slightly into the ground
 
