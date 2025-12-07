@@ -1,5 +1,11 @@
 # Changelog for SpecPet
 
+## 0.0.2p1
+- Added Driftball match winning as a form of gaining Bond Points.
+- Fixed Walkstep Cycle setting slider from not letting you change it :joy:
+- Fixed Resting Settings from having the wrong arrow type on it's title.
+- Fixed emotes from not resetting if you reset the script while one is playing
+
 ## 0.0.2
 - Added a toggleable walk cycle (Prodigypro!!!)
 - Fixed the pet from not accurately looking and staying on the ground when by shuttle or in Zero Gravity. (gravity fix)
