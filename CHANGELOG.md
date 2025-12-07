@@ -1,5 +1,15 @@
 # Changelog for SpecPet
 
+## 0.0.2
+- Added a toggleable walk cycle (Prodigypro!!!)
+- Fixed the pet from not accurately looking and staying on the ground when by shuttle or in Zero Gravity. (gravity fix)
+- Added Bonding
+- Added the ability to see when your pet was created (It will be when you update to this version).
+- Changed Guide to account for bonding
+- Changed Functionality Settings to match other settings panels
+- Fixed the enable resting checkbox from always enabling resting at all times no matter what.
+- Added Kitsuneko111 to credits for assisting the gravity fix
+
 ## 0.0.15
 - Added pet speed multiplier
 - Changed UI
