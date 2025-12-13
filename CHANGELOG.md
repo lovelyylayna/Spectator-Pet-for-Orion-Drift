@@ -1,5 +1,16 @@
 # Changelog for SpecPet
 
+## 0.0.3
+- Added Custom Pet creation support via the ```pettypes.luau``` file.
+- Changed all state ticks to use the specific pet type.
+- Changed the name of the default pet to ```Kitty```
+- Added a second default pet called ```Pidegon``` (inspired by Pidgeon_Lover)
+- Added support for global headpats (Basically a toggle where anyone can pet the camera regardless of the owner. This will also gain you Bond Points)
+- Added silly funtime message!
+- Cleaned UI fully
+- Updated Guide for new UI
+- Removed some settings that don't need to exist
+
 ## 0.0.2p1
 - Added Driftball match winning as a form of gaining Bond Points.
 - Fixed Walkstep Cycle setting slider from not letting you change it :joy:
